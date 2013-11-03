@@ -1,3 +1,4 @@
 Description: This program uses java Swing for its user interface. Users enter information about the dimensions of a room that they wish to paint. Assuming that one gallon of paint can cover 25000 square inches, the program calculates the fewest number (and type) of paint cans needed to complete the job. Paint can sizes range from 5-gallons to 1/2 pints. The total cost of the paint is also given.
+
 Copyright (c) 2013 Helen Lawrence. 
 No part of this code may be published, distributed, sublicensed, or sold without permission. All copies or uploads of this repository's contents must include the name of the original copyright holder.
